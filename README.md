@@ -4,7 +4,7 @@ A Flutter project demo of math question.
 
 Load json file async to get 10 math questions.
 
-Answer a question at one time and then submit when answer 10th question.
+Answer a question at one time and then submit when finish 10th question.
 
 <img src="/Screenshot/demo3.jpg" width="300" />
 <img src="/Screenshot/demo4.jpg" width="300" />
