@@ -1,0 +1,52 @@
+[
+  {
+    "id": "01",
+    "answer": "84",
+    "difficulty": 1
+  },
+  {
+    "id": "02",
+    "answer": "-70",
+    "difficulty": 2
+  },
+  {
+    "id": "03",
+    "answer": "539",
+    "difficulty": 3
+  },
+  {
+    "id": "04",
+    "answer": "11",
+    "difficulty": 4
+  },
+  {
+    "id": "05",
+    "answer": "31",
+    "difficulty": 2
+  },
+  {
+    "id": "06",
+    "answer": "74",
+    "difficulty": 3
+  },
+  {
+    "id": "07",
+    "answer": "79",
+    "difficulty": 4
+  },
+  {
+    "id": "08",
+    "answer": "-89",
+    "difficulty": 5
+  },
+  {
+    "id": "09",
+    "answer": "-60",
+    "difficulty": 5
+  },
+  {
+    "id": "10",
+    "answer": "-52",
+    "difficulty": 4
+  }
+]
