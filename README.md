@@ -1,4 +1,4 @@
-# math_demo
+# Math Demo
 
 A Flutter project demo of math question.
 
