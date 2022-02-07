@@ -1,16 +1,15 @@
 # math_demo
 
-A new Flutter project.
+A Flutter project demo of math question.
 
-## Getting Started
+Load json file async to get 10 math questions.
 
-This project is a starting point for a Flutter application.
+Answer a question at one time and then submit when answer 10th question.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="/Screenshot/demo3.jpg" width="300" />
+<img src="/Screenshot/demo4.jpg" width="300" />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Show the result that answers whether are correct or wrong.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="/Screenshot/demo1.jpg" width="300" />
+<img src="/Screenshot/demo6.jpg" width="300" />
